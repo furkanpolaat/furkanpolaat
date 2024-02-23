@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @furkanpolaat
-- 👀 I’m interested in ...Machine learning, artifical intelligence
+- 👀 I’m interested in Quantum Computing 
