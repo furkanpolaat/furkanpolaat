@@ -10,7 +10,7 @@
 | **[Rolebook](https://oarca.co/dl/rolebook)** | AI-powered interactive storytelling |
 | **[Sınavdaş](https://oarca.co/dl/sinavdas)** | Exam prep & study companion |
 | **[Fireball Football](https://oarca.co/dl/fireball)** | Football drills & training |
-| **[Project Pan](https://oarca.co/dl/project-pan)** | Pantry & meal rotation planner |
+| **[Project Pan](https://oarca.co/dl/project-pan)** | Make up planner |
 
 **Enterprise & civic tools**
 - **Farm Management** — livestock ops at scale (React, Supabase, shadcn/ui)
