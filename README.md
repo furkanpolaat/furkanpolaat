@@ -1,23 +1,50 @@
-👋 Hi, I'm **Furkan Polat** ([@furkanpolaat](https://github.com/furkanpolaat)) — founder at **Hamla Teknoloji**, based in **Antwerp**.
+👋 Hi, I'm **Furkan Polat** ([@furkanpolaat](https://github.com/furkanpolaat)) — founder at **[Hamla Teknoloji](https://hamlateknoloji.com)**, based in **Antwerp**.
 
-I build end-to-end digital products: mobile apps, web platforms, and the cloud infrastructure behind them.
 
-### What I'm working on now
+**Mobile apps** · [Download links](https://oarca.co)
 
-- **[OARCA](https://oarca.co)** — sports training & club management platform  
-  Flutter mobile app + Next.js web · sensor integrations (accelerometer, wearables, Concept2, Engo) · team scheduling, bookings & analytics
-- **OARCA Club / Salon** — multi-vertical club ops (rowing clubs, salons, pools, staff booking)
-- **Enterprise & civic software** — farm/livestock management, route & municipal tools, AI storytelling apps
-- **AI-native engineering** — spec-driven development, agent harnesses, and tooling that helps teams ship faster
+| App | What it is |
+|-----|------------|
+| **[OARCA Rowing](https://oarca.co/dl/oarca-rowing)** | Rowing training, sensors & club tools |
+| **[Lift by Oarca](https://oarca.co/dl/lift)** | Gym & strength training |
+| **[Rolebook](https://oarca.co/dl/rolebook)** | AI-powered interactive storytelling |
+| **[Sınavdaş](https://oarca.co/dl/sinavdas)** | Exam prep & study companion |
+| **[Fireball Football](https://oarca.co/dl/fireball)** | Football drills & training |
+| **[Project Pan](https://oarca.co/dl/project-pan)** | Pantry & meal rotation planner |
 
-### Background
+**Enterprise & civic tools**
+- **Farm Management** — livestock ops at scale (React, Supabase, shadcn/ui)
+- **Route Wiz Antwerp** — waste-collection & litter route optimization for the city
+- **Vacoblary**, **Create Piece Play**, and more across education, productivity, and games
 
-I started in **quantum computing** and **model-driven engineering**, building tools to lower the barrier to quantum technology. That foundation in rigorous systems thinking now shapes how I design production software — from sensor fusion on mobile to full-stack platforms at scale.
-
-### Stack
-
-`Flutter` · `React/Next.js` · `TypeScript` · `Firebase` · `PostgreSQL` · `AWS` · `Supabase` · `Capacitor`
+**Research & tooling**
+- **MDE4QP** — model-driven quantum routing: QAOA, VQE, D-Wave hybrid solvers on real road networks
+- **OARCA sensor dashboard** — Flask + Plotly analytics for workout & accelerometer data
+- **Agent harnesses** — spec-driven dev (Spec Kit, Cavekit, Graphify) for shipping with AI agents
 
 ---
 
-Feel free to explore my work and connect — always open to collaborating on ambitious product ideas.
+### Stack I work with
+
+**Mobile & cross-platform**
+`Flutter` · `Dart` · `Capacitor` · `BLoC` · `SQLite` · `sensors_plus` · `flutter_blue_plus` · `geolocator`
+
+**Web & UI**
+`Next.js` · `React` · `Vite` · `TypeScript` · `Tailwind CSS` · `shadcn/ui` · `Framer Motion` · `TanStack Query`
+
+**Backend & data**
+`Node.js` · `Express` · `Python` · `Flask` · `Dash` · `Firebase` · `Firestore` · `Cloud Functions` · `PostgreSQL` · `Supabase` · `AWS RDS`
+
+**Sensors, maps & routing**
+`Concept2 PM5` · `Polar` · `Google Maps` · `Leaflet` · `OSRM` · `OSMnx`
+
+**ML, AI & quantum**
+`PyTorch` · `torch-geometric` · `scikit-learn` · `PennyLane` · `Qiskit` · `D-Wave Ocean SDK` · `dimod` · `Gemini` · `OpenAI`
+
+**Payments, infra & shipping**
+`Adapty` · `Fastlane` · `Docker` · `Playwright` · `Vitest` · `pnpm`
+
+
+---
+
+Feel free to explore my repos or reach out — always happy to talk products, sensors, or quantum. 🚀
