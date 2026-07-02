@@ -1,7 +1,7 @@
 👋 Hi, I'm **Furkan Polat** ([@furkanpolaat](https://github.com/furkanpolaat)) — founder at **[Hamla Teknoloji](https://hamlateknoloji.com)**, based in **Antwerp**.
 
 
-**Mobile apps** · [Download links](https://oarca.co)
+**Mobile apps** · 
 
 | App | What it is |
 |-----|------------|
@@ -13,10 +13,13 @@
 | **[Project Pan](https://oarca.co/dl/project-pan)** | Make up planner |
 
 **Enterprise & civic tools**
+
+- **[OARCA Club](https://oarca.co)** — club management for  clubs & salons: scheduling, fleet, roster, credits, memberships & staff booking
 - **Farm Management** — livestock ops at scale (React, Supabase, shadcn/ui)
 - **Route Wiz Antwerp** — waste-collection & litter route optimization for the city
 - **Vacoblary**, **Create Piece Play**, and more across education, productivity, and games
 
+- 
 **Research & tooling**
 - **MDE4QP** — model-driven quantum routing: QAOA, VQE, D-Wave hybrid solvers on real road networks
 - **OARCA sensor dashboard** — Flask + Plotly analytics for workout & accelerometer data
