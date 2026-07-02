@@ -30,24 +30,14 @@
 ### Stack I work with
 
 **Mobile & cross-platform**
-`Flutter` · `Dart` · `Capacitor` · `BLoC` · `SQLite` · `sensors_plus` · `flutter_blue_plus` · `geolocator`
+`Flutter` · `Dart` · `Capacitor` · `BLoC` · `SQLite` ·
 
 **Web & UI**
-`Next.js` · `React` · `Vite` · `TypeScript` · `Tailwind CSS` · `shadcn/ui` · `Framer Motion` · `TanStack Query`
-
-**Backend & data**
+`Next.js` · `React` · `Vite` · `TypeScript` · `Tailwind CSS` 
 `Node.js` · `Express` · `Python` · `Flask` · `Dash` · `Firebase` · `Firestore` · `Cloud Functions` · `PostgreSQL` · `Supabase` · `AWS RDS`
 
-**Sensors, maps & routing**
-`Concept2 PM5` · `Polar` · `Google Maps` · `Leaflet` · `OSRM` · `OSMnx`
 
 **ML, AI & quantum**
-`PyTorch` · `torch-geometric` · `scikit-learn` · `PennyLane` · `Qiskit` · `D-Wave Ocean SDK` · `dimod` · `Gemini` · `OpenAI`
-
-**Payments, infra & shipping**
-`Adapty` · `Fastlane` · `Docker` · `Playwright` · `Vitest` · `pnpm`
-
-
----
+`PyTorch` · `torch-geometric` · `scikit-learn` · `PennyLane` · `Qiskit` · `D-Wave Ocean SDK` · `dimod` · 
 
 Feel free to explore my repos or reach out — always happy to talk products, sensors, or quantum. 🚀
